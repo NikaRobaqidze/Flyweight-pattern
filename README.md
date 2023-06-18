@@ -1,6 +1,7 @@
 # Flyweight pattern
 Flyweight design patter on java in forest-tree example.
-Copyright: Refactoring.Guru
+
+Author: Refactoring.Guru
 
 Using: IntelJ IDEA Community Edition
 
